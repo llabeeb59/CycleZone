@@ -9,7 +9,7 @@ To preview the webpage, open /client/build/index.html
 This is the react development version code. To run or test it, follow below instructions.
 
 1. Install NodeJS.
-2. Using Command Prompt(Windows) or Terminal(Linux) cd into /CycleZone/client.
+2. Using Command Prompt(Windows) or Terminal(Linux) `cd` into /CycleZone/client.
 3. Run command `npm install` to install required dependencies.
 4. Run command `npm start` to start the development server.
 5. To preview the webpage, open 'localhost:3000' in your web-browser.
