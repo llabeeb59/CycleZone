@@ -1,0 +1,56 @@
+[
+    {
+        "key":1,
+        "category": "STATE",
+        "name": "WARHAWK",
+        "image": "cycle_sample.png",
+        "price": "$999",
+        "colors": ["red", "green", "blue"],
+        "inStock": true             
+    },
+    {
+        "key":2,
+        "category": "STATE",
+        "name": "CARDINAL",
+        "image": "cycle_sample.png",
+        "price": "$469-$849",
+        "colors": null,
+        "inStock": false
+    },
+    {
+        "key":3,
+        "category": "STATE",
+        "name": "DUTCHI 3 OR 8",
+        "image": "cycle_sample.png",
+        "price": "$849",
+        "colors": ["red", "blue", "violet"],
+        "inStock": true
+    },
+    {
+        "key":4,
+        "category": "LINUS",
+        "name": "MIXTE 3 OR 8",
+        "image": "cycle_sample.png",
+        "price": "$649-$849",
+        "colors": ["red", "blue", "aqua"],
+        "inStock": false
+    },
+    {
+        "key":5,
+        "category": "LINUS",
+        "name": "DUTCHI 1",
+        "image": "cycle_sample.png",
+        "price": "$469-$849",
+        "colors": ["red", "blue", "orange"],
+        "inStock": true
+    },
+    {
+        "key":6,
+        "category": "LINUS",
+        "name": "DOVER 1 OR 5",
+        "image": "cycle_sample.png",
+        "price": "$599-$89",
+        "colors": ["red", "blue", "magenta", "purple"],
+        "inStock": true
+    }
+]
