@@ -4,8 +4,6 @@ React front-end code for a Online Cycle Store model. For demo purpose only.
 The product details are populated in CycleList.json file, stored in /client/src/res folder. Modify or add content as see fit.
 Further functionalities can be implemented as required.
 
-To preview the webpage, open /client/build/index.html
-
 This is the react development version code. To run or test it, follow below instructions.
 
 1. Install NodeJS.
